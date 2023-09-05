@@ -1,2 +1,2 @@
 # Human-Detection-using-OpenCV
-A human detection program
+This is a human detection program which detects humans and measures the virtual distance between them.
